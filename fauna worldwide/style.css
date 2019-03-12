@@ -1,0 +1,106 @@
+body{
+  background-color: #438256
+}
+
+
+/*.AnimalList{
+  background-color: #BEE7B8;
+  text-align: left;
+  border-style:solid black;
+  border-width: 10px
+  padding:100px;
+}*/
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li a {
+  display: inline;
+  color: black;
+  float: left;
+  padding:14px 16px;
+  text-decoration: none;
+}
+
+/*li{
+  float: left;
+}*/
+
+#animals{
+  list-style-type: circle;
+  float: none;
+}
+p{
+  font-size: 30px;
+  text-align: center;
+}
+
+.nav{
+  border: solid black 5px;
+  font-size: 20px;
+  overflow: hidden;
+  background-color: #BEE7B8;
+}
+
+.FaunaWorldwide{
+  background-color: #BEE7B8;
+  text-align: center;
+  border-style: solid;
+  border-width: 10px
+  padding: 5px
+}
+
+/*.AnimalList{
+  background-color: #BEE7B8;
+  text-align: right;
+  border-style:none;
+  border-width: 10px
+  padding: 5px
+}*/
+
+img{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.logo{
+  : 20px;
+}
+
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #BEE7B8;
+  color: white;
+  text-align: center;
+}
+
+.ol{
+  font-size: 20px;
+  text-align:right;
+}
+
+.about{
+  text-align: center;
+}
+.MountainGorilla{
+  padding-top: 150px;
+  text-align: center;
+}
+
+.center{
+  padding-left: 400px
+}
